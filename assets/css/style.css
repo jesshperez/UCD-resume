@@ -236,6 +236,26 @@ footer {
     background: #e84610;
 }
 
+.social-links li a i.fa.fa-facebook:hover {
+    background-color: #4267b2;
+}
+
+.social-links li a i.fa.fa-twitter:hover {
+    background-color: #1da1f2;
+}
+
+.social-links li a i.fa.fa-linkedin:hover {
+    background-color: #2867b2;
+}
+
+.social-links li a i.fa.fa-pinterest:hover {
+    background-color: #bd081c;
+}
+
+.social-links li a i.fa.fa-instagram:hover {
+    background-color: #e1306c;
+}
+
 #footer-details {
     padding: 20px;
 }
